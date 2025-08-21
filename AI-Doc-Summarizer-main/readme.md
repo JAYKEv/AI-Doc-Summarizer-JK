@@ -9,7 +9,7 @@ This is a FastAPI-based document analyzer that extracts and summarizes text from
 ### Clone of the repo 
 
 ```
- git clone https://github.com/shivamyeshu/AI-Doc-Summarizer
+ git clone https://github.com/JAYKEv/AI-Doc-Summarizer-JK
 ```
 
 ### Install dependencies:
@@ -32,5 +32,5 @@ uvicorn app.main:app --reload
 - Open FastAPI docs: http://127.0.0.1:8000/docs
 - Upload a file using Postman or cURL.
 
-#### A project by shivam yeshu 
+#### A project by Jay Kevadiya 
 -- Happy Coding </>
